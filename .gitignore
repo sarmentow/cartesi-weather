@@ -1,0 +1,13 @@
+.cartesi
+.venv
+.mypy_cache
+
+*.pem
+*log*.txt
+
+__pycache__
+
+heatmap.html
+maps
+maps-test
+plot-map

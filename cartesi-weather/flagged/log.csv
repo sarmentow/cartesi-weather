@@ -1,0 +1,3 @@
+Temperature (°C),Precipitation Chance (%),Wind Speed (km/h),Wind Direction (degrees),Humidity (%),Sea-Level Pressure (hPa),Hour,Day,Month,output 0,output 1,flag,username,timestamp
+'-20,0,0,0,0,900,,,,,,,,2024-06-15 02:44:03.390097
+'-20,0,0,0,0,900,0,0,0,,"<html><iframe src=""./file/HUMIDITY_heatmap.html"" height=""350px"" width=""100%""></iframe></html>",,,2024-06-15 02:47:15.612721
