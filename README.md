@@ -1,4 +1,5 @@
-![image](https://github.com/sarmentow/cartesi-weather/assets/48866794/e38e6c23-63bc-4de0-85ca-51ed67e7a789)
+![image](https://github.com/sarmentow/cartesi-weather/assets/48866794/f48719e6-b0f0-4c2c-bd1c-4f47bce5a8d1)
+
 # Cartesi Weather AI weather prediction
 Project built for the Cartesi Hackathon Inteli 2024 edition
 
